@@ -1,0 +1,23 @@
+{
+  "name": "w-16_promise_async",
+  "version": "1.0.0",
+  "description": "- promise is just like promise in real life its contain either resolved or rejected.\r  - promise is a good for when you doing a async operation in the background",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zz9876/w-16_Promise_Async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zz9876/w-16_Promise_Async/issues"
+  },
+  "homepage": "https://github.com/zz9876/w-16_Promise_Async#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
